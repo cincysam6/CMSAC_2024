@@ -1,1 +1,5 @@
-# This folder contains the model code used to build the various components of the analysis. 
+# This folder contains the model code used to build the various components of the analysis. Here is information on the following models
+
+# 1. Pressure probability Model
+# 2. Target Probability Model
+# 3. Full Complation Probability Model
